@@ -5,11 +5,12 @@
  *
  *************** Surge配置 ***********************
  * 推荐使用模块：
- * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/RunningMode/running-mode.sgmodule
+ * https://raw.githubusercontent.com/Babige/QuanX/master/Tools/RunningMode/running-mode.sgmodule
  * 手动配置：
+ * #!name=Surge运行模式
+ * #!desc=根据当前网络自动切换模式 by Peng-YM
  * [Script]
- * event network-changed script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/RunningMode/running-mode.js
- *
+ * event network-changed script-path=https://raw.githubusercontent.com/Babige/QuanX/master/Tools/RunningMode/running-mode.js
  *************** Loon配置 ***********************
  * 推荐使用插件：
  * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/RunningMode/running-mode.plugin
