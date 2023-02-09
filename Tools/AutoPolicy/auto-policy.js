@@ -10,7 +10,6 @@
  * 手动配置：
  * [Script]
  * event network-changed script-path=https://raw.githubusercontent.com/Babige/QuanX/master/Tools/AutoPolicy/auto-policy.js
- *
  *************** Loon配置 ***********************
  * 推荐使用插件：
  * https://raw.githubusercontent.com/Babige/QuanX/master/Tools/AutoPolicy/auto-policy.plugin
