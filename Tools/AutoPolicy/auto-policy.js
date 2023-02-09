@@ -14,7 +14,7 @@
  *************** Loon配置 ***********************
  * 推荐使用插件：
  * https://raw.githubusercontent.com/Babige/QuanX/master/Tools/AutoPolicy/auto-policy.plugin
- * #!name=Surge运行模式
+ * #!name=Surge自动策略
  * #!desc=根据当前网络自动切换模式
  * 手动配置：
  * [Script]
